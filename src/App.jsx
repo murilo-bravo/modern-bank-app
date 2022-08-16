@@ -8,7 +8,6 @@ const App = () => {
       <div className={`${styles.paddingX} ${styles.flexCenter}`}>
         <div className={`${styles.boxWidth}`}>
           <Navbar />
-          <h1 className='text-black'>TESTANDOOOOOO</h1>
         </div>
       </div>
 
