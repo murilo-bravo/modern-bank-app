@@ -7,7 +7,7 @@ export const navLinks = [
   },
   {
     id: "features",
-    title: "Funcionalidades",
+    title: "Benefícios",
   },
   {
     id: "product",
