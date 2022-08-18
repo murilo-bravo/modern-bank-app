@@ -14,14 +14,15 @@
 </p><br/> -->
 
 ## 📖 Sobre 
-<hr>
+
 <p>
-  Landing Page desenvolvida a partir de um projeto feito em Figma.
-  O site possui um design moderno e totalmente responsivo, se adptando em desktop, tablets ou smartphones.
+  Landing Page desenvolvida a partir de um projeto feito em Figma. <br/>
+  O site possui um design moderno e totalmente responsivo, se adptando em desktop, tablets ou smartphones.<br/>
+  Realizei o deploy e coloquei na hospedagem, o site pode ser acessado pelo seguinte link: https://hoobank.volppe.com.br/
 </p><br/>
 
 ## 📋 Pré-requisitos 
-<hr>
+
 <p>
   Para começar é necessário instalar em sua máquina as ferramentas: <a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/">Node,js</a>. Também deve ser intalado um editor de código como o <a href="https://code.visualstudio.com/">.
   VSCode</a>
@@ -34,7 +35,7 @@
 • <code>npm run dev</code> para rodar o projeto no servidor local<br/><br/>
 
 ## 🛠️ Tecnologias
-<hr>
+
 • <a href="https://pt-br.reactjs.org/">React</a><br/>
 • <a href="https://tailwindcss.com/">Tailwind CSS</a><br/>
 
