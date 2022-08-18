@@ -18,13 +18,13 @@
 <p>
   Landing Page desenvolvida a partir de um projeto feito em Figma. <br/>
   O site possui um design moderno e totalmente responsivo, se adptando em desktop, tablets ou smartphones.<br/>
-  Realizei o deploy e coloquei na hospedagem, o site pode ser acessado pelo seguinte link: https://hoobank.volppe.com.br/
+  Realizei o deploy e coloquei na hospedagem, o site pode ser acessado pelo seguinte link: <a href="https://hoobank.volppe.com.br/" target="_blank">Clique Aqui</a><br/> 
 </p><br/>
 
 ## 📋 Pré-requisitos 
 
 <p>
-  Para começar é necessário instalar em sua máquina as ferramentas: <a href="https://git-scm.com/">Git</a>, <a href="https://nodejs.org/">Node,js</a>. Também deve ser intalado um editor de código como o <a href="https://code.visualstudio.com/">.
+  Para começar é necessário instalar em sua máquina as ferramentas: <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://nodejs.org/" target="_blank">Node,js</a>. Também deve ser intalado um editor de código como o <a href="https://code.visualstudio.com/" target="_blank">.
   VSCode</a>
 </p>
 
@@ -35,9 +35,9 @@
 
 ## 🛠️ Tecnologias
 
-• <a href="https://pt-br.reactjs.org/">React</a><br/>
-• <a href="https://tailwindcss.com/">Tailwind CSS</a><br/>
+• <a href="https://pt-br.reactjs.org/" target="_blank">React</a><br/>
+• <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS</a><br/>
 
 <hr>
-Made with 💙 by MURILO BRAVO 👋 <a href="https://www.linkedin.com/in/murilo-bravo-223154248/">Find me on LinkedIn</a><br/>
+Made with 💙 by MURILO BRAVO 👋 <a href="https://www.linkedin.com/in/murilo-bravo-223154248/" target="_blank">Find me on LinkedIn</a><br/>
 
