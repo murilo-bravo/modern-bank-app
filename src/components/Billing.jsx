@@ -5,13 +5,13 @@ const Billings = () => {
   return (
     <section id='product' className={layout.sectionReverse}>
       <div className={layout.sectionImgReverse}>
-        <img src={bill} alt="billing" className='w-full h-full relative z-10' />
+        <img src={bill} alt="billing" className='w-full h-full relative z-[5]' />
 
-        <div className='absolute z-[3] -left-1/2 top-0 w-1/3 h-1/3 rounded-full white__gradient' />
+        <div className='absolute z-[3] -left-1/2 top-0 w-1/2 h-1/2 rounded-full white__gradient' />
         <div className='absolute z-[0] -left-1/2 bottom-0 w-1/2 h-1/2 rounded-full pink__gradient' />
       </div>
 
-      <div className={layout.sectionInfo}>
+      <div className={`${layout.sectionInfo} ml-9`}>
         <h2 className={styles.heading2}>Controle facilmente<br className='sm:block hidden' />  suas contas e faturas</h2>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Com o cartão de crédito certo, você pode melhorar sua vida financeira construindo crédito, ganhando recompensas e economizando dinheiro.
