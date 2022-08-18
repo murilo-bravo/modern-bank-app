@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Recompensas",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Os melhores cartões de crédito oferecem algumas combinações tentadoras de promoções e prêmios",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Seguro",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Tomamos medidas proativas para garantir que suas informações e transações estejam seguras.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Transferência de saldo",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Um cartão de crédito de transferência de saldo pode economizar muito dinheiro em juros.",
   },
 ];
 
@@ -47,7 +47,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "O dinheiro é apenas uma ferramenta. Ele o levará aonde você desejar, mas não o substituirá como condutor.",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -55,7 +55,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Com a análise sobre os meios de pagamento consegui tomar desições importantes que geraram grande economia para minha empresa.",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -63,7 +63,7 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Conheci por indicação e fui muito feliz na aquisição do serviço, realmente pude escolher a melhor opção de meios de pagamentos.",
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
@@ -74,59 +74,59 @@ export const stats = [
   {
     id: "stats-1",
     title: "Usuários Ativos",
-    value: "3800+",
+    value: "3400+",
   },
   {
     id: "stats-2",
     title: "Empresas Confiam",
-    value: "230+",
+    value: "160+",
   },
   {
     id: "stats-3",
     title: "Transações",
-    value: "$230M+",
+    value: "R$180M+",
   },
 ];
 
 export const footerLinks = [
   {
-    title: "Useful Links",
+    title: "Links Úteis",
     links: [
       {
-        name: "Content",
+        name: "Conteúdo",
         link: "https://www.hoobank.com/content/",
       },
       {
-        name: "How it Works",
+        name: "Como Funciona",
         link: "https://www.hoobank.com/how-it-works/",
       },
       {
-        name: "Create",
+        name: "Conta",
         link: "https://www.hoobank.com/create/",
       },
       {
-        name: "Explore",
+        name: "Explorar",
         link: "https://www.hoobank.com/explore/",
       },
       {
-        name: "Terms & Services",
+        name: "Termos e Serviços",
         link: "https://www.hoobank.com/terms-and-services/",
       },
     ],
   },
   {
-    title: "Community",
+    title: "Comunidade",
     links: [
       {
-        name: "Help Center",
+        name: "Central de Ajuda",
         link: "https://www.hoobank.com/help-center/",
       },
       {
-        name: "Partners",
+        name: "Parceiros",
         link: "https://www.hoobank.com/partners/",
       },
       {
-        name: "Suggestions",
+        name: "Sugestões",
         link: "https://www.hoobank.com/suggestions/",
       },
       {
@@ -140,14 +140,14 @@ export const footerLinks = [
     ],
   },
   {
-    title: "Partner",
+    title: "Parceiros",
     links: [
       {
-        name: "Our Partner",
+        name: "Nossos Parceiros",
         link: "https://www.hoobank.com/our-partner/",
       },
       {
-        name: "Become a Partner",
+        name: "Seja um Parceiro",
         link: "https://www.hoobank.com/become-a-partner/",
       },
     ],

@@ -4,7 +4,7 @@ import 'animate.css';
 
 const GetStart = () => {
   return (
-    <div className={`${styles.flexCenter} w-[140px] h-[140px] bg-blue-gradient rounded-full p-[2px] cursor-pointer animate__animated animate__zoomIn hover:scale-110 transition-transform`}>
+    <div className={`${styles.flexCenter} w-[140px] h-[140px] bg-blue-gradient rounded-full p-[2px] cursor-pointer hover:scale-110 transition-transform`}>
       <div className={`${styles.flexCenter} flex-col w-full h-full bg-primary rounded-full`}>
         <div className={`${styles.flexStart}`}>
           <p className="font-poppins font-medium text-[18px] leading-6 mr-2">

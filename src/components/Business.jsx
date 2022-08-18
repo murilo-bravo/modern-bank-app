@@ -24,7 +24,7 @@ const Business = () => {
       <div className={`${layout.sectionInfo}`}>
         <h2 className={`${styles.heading2}`}>Você faz o negócio, <br className="sm:block hidden" /> 
         nós cuidamos do dinheiro.</h2>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Com o cartão de crédito certo, você pode melhorar sua vida financeira criando crédito, ganhando recompensas e economizando dinheiro.Mas com milhares de cartões de crédito no mercado.</p>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Com o meio de pagamento certo, você pode melhorar sua vida financeira criando crédito, ganhando recompensas e economizando dinheiro.</p>
 
         <Button styles='mt-10'/>
       </div>

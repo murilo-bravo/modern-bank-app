@@ -1,6 +1,9 @@
 import React from 'react'
 import styles from './style'
 import { Navbar, Hero, Stats, Billing, CardDeal, Testimonials, Clients, CTA, Footer, Business } from './components'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+AOS.init();
 
 const App = () => {
   return (

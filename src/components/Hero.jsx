@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
 
         <div className='flex flex-row justify-between items-center w-full'>
-          <h1 className='flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] ss:leading-[100px] leading-[75px] text-white animate__animated animate__slideInLeft'>
+          <h1 className='flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] ss:leading-[100px] leading-[75px] text-white'>
             A Próxima<br className='sm:block hidden' /> {" "} 
             <span className='text-gradient'>
               Geração
@@ -27,8 +27,8 @@ const Hero = () => {
           </div>
         </div>
 
-        <h1 className='font-poppins font-semibold ss:text-[72px] text-[52px] ss:leading-[100px] leading-[75px] text-white animate__animated animate__slideInLeft'>De Meios de Pagementos.</h1>
-        <p className={`${styles.paragraph} max-w-[470px] mt-5 animate__animated animate__zoomIn`}>Nosso time de especialistas utilizam uma metodologia para identificar os cartões de créditos com o maior encaixe para suas necessidades. Nós examinamos todas as taxas e tarifas anuais.</p>
+        <h1 className='font-poppins font-semibold ss:text-[72px] text-[52px] ss:leading-[100px] leading-[75px] text-white'>De Meios de Pagementos.</h1>
+        <p className={`${styles.paragraph} max-w-[470px] mt-5`}>Nosso time de especialistas utilizam uma metodologia para identificar os cartões de créditos com o maior encaixe para suas necessidades. Nós examinamos todas as taxas e tarifas anuais.</p>
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
