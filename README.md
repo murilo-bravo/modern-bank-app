@@ -17,7 +17,7 @@
 
 <p>
   Landing Page desenvolvida a partir de um projeto feito em Figma. <br/>
-  O site possui um design moderno e totalmente responsivo, se adptando em desktop, tablets ou smartphones.<br/>
+  O site possui um design moderno e totalmente responsivo, se adaptando em desktop, tablets ou smartphones.<br/>
   Realizei o deploy e coloquei na hospedagem, o site pode ser acessado pelo seguinte link: <a href="https://hoobank.volppe.com.br/" target="_blank">Clique Aqui</a><br/> 
 </p><br/>
 
