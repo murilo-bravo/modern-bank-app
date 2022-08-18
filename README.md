@@ -29,7 +29,6 @@
 </p>
 
 #### ⚙️ Executando o Front End local
-<br/>
 • Clone esse repositório <br/> 
 • <code>npm intall</code> para instalar todas as dependências requeridas<br/>
 • <code>npm run dev</code> para rodar o projeto no servidor local<br/><br/>
